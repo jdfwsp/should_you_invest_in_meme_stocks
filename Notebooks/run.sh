@@ -1,1 +1,1 @@
-panel serve trends.ipynb
+panel serve dashboard.ipynb
