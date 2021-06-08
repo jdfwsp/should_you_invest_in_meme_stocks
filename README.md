@@ -5,5 +5,5 @@
 * Cole Wood
 * Josh Ferguson
 
-![](2screen.webm)
+![](2screen.gif)
 
