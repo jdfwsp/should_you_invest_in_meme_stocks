@@ -1,0 +1,38 @@
+Intro
+    - How do you know what to invest in?
+        - Do you trust what people say on Social Media?
+    - The S&P 500 is broken in to 11 sectors
+        - We pulled data for the minimum, median, and max beta value stock along with a mutual fund in each sector
+    - Which factors affect your stock choice?
+        - Stocks you know from products you use
+        - Stocks you see in the news
+        - Stocks you research and see historical performance
+Tabs
+    - Hello
+        -Introduce Group Members
+         
+    - Sector Heatmap
+        - Correlation of different sectors
+        
+    - Sector Risk
+        - Boxplot of different sectors vs S&P 500
+        
+    - Stock Trends
+        - Line Graph of Sectors vs Google Trend Search Interest
+        
+    - Candlestick
+        - Candlestick Chart
+    
+    - SPY Performance
+        - Line Graph of Sectors vs SPY
+        
+    - Time Traveler
+        - Line Graph of what your portfolio would like if you'd invested in 2017
+        
+    - Sharpe Ratio
+        - Bar graph of Sharpe Ratios for a portfolio each group member designed
+        
+Conclusion
+    - Trends definitely have an impact on stock performance, driven by social media and news
+    - The SPY outperforms most key stocks in each sector of the S&P 500
+    - In the end it's your money, you invest where you want, but with this tool it is easy to see that some sectors of the index perform better than others.  If you want to invest in trendy stocks you need to have time to dedicate to monitoring and researching them.

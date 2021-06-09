@@ -1,11 +1,18 @@
-#smu_fintech_project_1_group_4
-![](haroldlaptop.jpg)
+# 🐍📈 Project 1 - Group 4 📉🐍
 
+### Members
 * Mouhamadou Lmine Diop aka 🎮 Pro Gamer 🕹️
+* Josh Ferguson aka 🦅 Proud Patriot 🇺🇸
 * Ben McCright aka 👴 Boomer 👴 
-* Cole Wood aka Diamond Hands 💎👐
-* Josh Ferguson aka 🦅 Freedom Lover 🇺🇸
+* Cole Wood aka 💎 Diamond Hands 👐
 
-
-![](panel.gif)
+![](Images/haroldlaptop.jpg)
+![](Images/heatmap.png)
+![](Images/boxplot.png)
+![](Images/trend.png)
+![](Images/candlestick.png)
+![](Images/spy.png)
+![](Images/time_traveler.png)
+![](Images/sharpe.png)
+![](Images/panel.gif)
 
